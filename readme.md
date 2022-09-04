@@ -46,7 +46,7 @@ The frontend is being deployed on the github pages.
 
 * Backend: http://54.152.25.130:5000
 
-* Dataset: s3://img-up123/images/
+* Dataset: https://drive.google.com/drive/folders/1BiGLTRjHC6EI0GJv3v4BVsT3X5B-1jVd?usp=sharing
 
 * Frontend: https://nak915.github.io/Reverse-Image-Search-Engine/
 
