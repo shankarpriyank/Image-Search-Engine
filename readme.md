@@ -46,7 +46,11 @@ The frontend is being deployed on the github pages.
 
 * Backend: http://54.152.25.130:5000
 
+* Dataset: s3://img-up123/images/
+
 * Frontend: https://nak915.github.io/Reverse-Image-Search-Engine/
+
+* Youtube Video Demo: https://youtu.be/PV6lOWzQK6U
 
 * Backend Repo:https://github.com/shankarpriyank/Image-Search-Engine/
 
