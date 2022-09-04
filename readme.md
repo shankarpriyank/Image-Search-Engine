@@ -44,7 +44,7 @@ The frontend is being deployed on the github pages.
 * The backend is hosted at aws ec2 instance after containarization.
 * The frontend is hosted at github pages.
 
-* Backend: http://54.152.25.130:5000
+* Backend: http://44.201.205.178
 
 * Dataset: https://drive.google.com/drive/folders/1BiGLTRjHC6EI0GJv3v4BVsT3X5B-1jVd?usp=sharing
 
