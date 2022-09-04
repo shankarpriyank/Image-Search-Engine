@@ -43,3 +43,11 @@ The frontend is being deployed on the github pages.
 
 * The backend is hosted at aws ec2 instance after containarization.
 * The frontend is hosted at github pages.
+
+* Backend: http://54.152.25.130:5000
+
+* Frontend: https://nak915.github.io/Reverse-Image-Search-Engine/
+
+* Backend Repo:https://github.com/shankarpriyank/Image-Search-Engine/
+
+* Frontend Repo: https://github.com/NaK915/Reverse-Image-Search-Engine
