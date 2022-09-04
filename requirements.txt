@@ -1,0 +1,16 @@
+flask
+flask-cors
+numpy
+pandas
+ftfy 
+regex 
+tqdm
+-f https://download.pytorch.org/whl/torch_stable.html 
+torch
+-f https://download.pytorch.org/whl/torch_stable.html
+torchvision
+git+https://github.com/openai/CLIP.git
+transformers
+awscli
+boto3
+cloudpathlib
